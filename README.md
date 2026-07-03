@@ -1,4 +1,7 @@
-[![Jamal on SnapCV](https://snapcv.me/api/card/jamal)](https://jamal.snapcv.me)
+<a href="https://jamal.snapcv.me"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.snapcv.me/api/card/jamal?theme=dark">
+  <img src="https://www.snapcv.me/api/card/jamal" alt="Jamal on SnapCV" width="460">
+</picture></a>
 
 # Jamal
 
