@@ -1,3 +1,5 @@
+[![Jamal on SnapCV](https://snapcv.me/api/card/jamal)](https://jamal.snapcv.me)
+
 # Jamal
 
 AI full-stack engineer in Kochi, India. I build AI products that solve real problems and take the repetitive work off people's hands. Problem first, stack second. 10+ shipped for startups and clients.
