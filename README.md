@@ -1,5 +1,4 @@
-[![My portfolio](https://www.snapcv.me/api/card/jamal?theme=light#gh-light-mode-only)](https://jamal.snapcv.me)
-[![My portfolio](https://www.snapcv.me/api/card/jamal?theme=dark#gh-dark-mode-only)](https://jamal.snapcv.me)
+[![My portfolio](https://www.snapcv.me/api/card/jamal?theme=dark)](https://jamal.snapcv.me)
 
 # Jamal
 
