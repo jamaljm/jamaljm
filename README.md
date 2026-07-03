@@ -1,7 +1,5 @@
-<a href="https://jamal.snapcv.me"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.snapcv.me/api/card/jamal?theme=dark">
-  <img src="https://www.snapcv.me/api/card/jamal" alt="Jamal on SnapCV" width="460">
-</picture></a>
+[![My portfolio](https://www.snapcv.me/api/card/jamal?theme=light#gh-light-mode-only)](https://jamal.snapcv.me)
+[![My portfolio](https://www.snapcv.me/api/card/jamal?theme=dark#gh-dark-mode-only)](https://jamal.snapcv.me)
 
 # Jamal
 
