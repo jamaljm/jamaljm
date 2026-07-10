@@ -1,25 +1,32 @@
 ```text
-;;##########%;%@@@###############%:*%%    jamal@kochi ----------------------------------------
-;:*##*::%###*;@@@@###############+';+*    . OS: ........ macOS, and whatever the problem needs
-+:;;:'''*##+'.'+%;:%###########@'  .:.    . Uptime: ............ 8 years, 7 months (on GitHub)
-+;:..':.:+;....;+'.+###########@..':;:    . Host: ....................... Independent / SnapCV
-+:.         ..... . '*##########*':'..    . IDE: ........................ VS Code, Claude Code
-:::'   ..''..   .:+++%#########*'.''
-:;'...:;+++:.'';**+*+%########;.   ..     . Languages.Programming: .... TypeScript, Python, JS
-;;'..:+++%*+:++*%%*%*%#######+       .    . Languages.Real: ............... Malayalam, English
-*;::';+:;*++;;*++**++%#######:   ..
-*'';:+*+**+%:':++;:;+@#######*.   ..''    . Hobbies.Software: .... AI experiments, MCP servers
-++;;::;:;:::..;**+++;:';**%@#%'    .':    . Hobbies.Stakes: ........... real money, real taxes
-..           .;%%%%*:......;@@;    .''
-            ..:;'''+:''''''';*'......'    - Contact ------------------------------------------
-           .;::;::::::''''''':''''..:'    . Site: ............................... heyjamal.com
-           .'''''''''............. .;:    . Email: .................... jamalvga2002@gmail.com
-           .'.....................   +    . Work: .................................. snapcv.me
-            .....................'::+*
-                     ............:::+;    - GitHub Stats -------------------------------------
-.'''...'':''''''''....          .':::'    . Repos: ............... 63 {Contributed: 14 others}
-                                          . Contributions (year): ...................... 1,384
-                                          . Stars: ........................ 63 | Followers: 98
+     ██╗  █████╗ ███╗   ███╗ █████╗ ██╗
+     ██║ ██╔══██╗████╗ ████║██╔══██╗██║
+     ██║ ███████║██╔████╔██║███████║██║
+██   ██║ ██╔══██║██║╚██╔╝██║██╔══██║██║
+╚█████╔╝ ██║  ██║██║ ╚═╝ ██║██║  ██║███████╗
+ ╚════╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+
+jamal@kochi ----------------------------------------
+. OS: ........ macOS, and whatever the problem needs
+. Uptime: ............ 8 years, 7 months (on GitHub)
+. Host: ....................... Independent / SnapCV
+. IDE: ........................ VS Code, Claude Code
+
+. Languages.Programming: .... TypeScript, Python, JS
+. Languages.Real: ............... Malayalam, English
+
+. Hobbies.Software: .... AI experiments, MCP servers
+. Hobbies.Stakes: ........... real money, real taxes
+
+- Contact ------------------------------------------
+. Site: ............................... heyjamal.com
+. Email: .................... jamalvga2002@gmail.com
+. Work: .................................. snapcv.me
+
+- GitHub Stats -------------------------------------
+. Repos: ............... 63 {Contributed: 14 others}
+. Contributions (year): ...................... 1,384
+. Stars: ........................ 63 | Followers: 98
 ```
 
 ### Things I build
