@@ -1,4 +1,4 @@
-[![My portfolio](https://www.snapcv.me/api/card/jamal?style=terminal)](https://jamal.snapcv.me)
+[![My portfolio](https://www.snapcv.me/api/card/jamal?style=terminal&v=2)](https://jamal.snapcv.me)
 
 # Jamal
 
